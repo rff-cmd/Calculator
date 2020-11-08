@@ -1,0 +1,28 @@
+h1 {
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+}
+
+body {
+    margin: 300px auto;
+    width: 400px;
+    padding: 10px;
+    background-color: powderblue;
+  }
+
+button {
+    color: black;
+    background: whitesmoke;
+    margin: 5px;
+    width: 30%;
+    margin-left: 28%;
+    margin-right: 20%
+    
+}
+
+input {
+    margin: 5px;
+    width: 80%;
+ 
+}
